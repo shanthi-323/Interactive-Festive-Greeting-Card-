@@ -1,0 +1,22 @@
+.btn{
+    margin-top: 400px;
+    margin-left: 400px;
+    display: inline-block;
+    font-size: 18px;
+    padding: 24px 70px;
+    background:rosybrown;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    box-shadow: 0 2px 25px rgb(220, 209, 84);
+    
+}
+
+.btn:active{
+    background: lightgreen;
+     box-shadow: 0 2px 25px rgb(136, 84, 220);
+}
+
